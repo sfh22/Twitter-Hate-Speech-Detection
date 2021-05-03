@@ -6,3 +6,16 @@ time
 pandas
 numpy
 pickle
+matplotlib
+re
+emoji
+seaborn
+arabic_reshaper
+pyarabic
+textblob
+nltk
+gensim
+bidi
+tashaphyne
+wordcloud
+gunicorn
