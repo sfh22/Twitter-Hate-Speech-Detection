@@ -1,5 +1,4 @@
 import tweepy
-import time
 import pandas as pd
 pd.set_option('display.max_colwidth', 1000)
 
@@ -34,4 +33,3 @@ def get_related_tweets(text_query):
 
     except BaseException as e:
         print('failed on_status,', str(e))
-        time.sleep(3)
