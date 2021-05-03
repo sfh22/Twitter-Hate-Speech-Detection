@@ -1,6 +1,6 @@
 flask == 1.1.2
 joblib == 1.0.1
-sklearn == 0.24.1
+sklearn 
 tweepy == 3.10.0
 pandas == 1.2.3
 numpy == 1.19.5
