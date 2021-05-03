@@ -12,7 +12,4 @@ pyarabic
 textblob
 nltk
 gensim
-bidi
-tashaphyne
-wordcloud
 gunicorn
