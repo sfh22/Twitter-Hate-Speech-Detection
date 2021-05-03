@@ -1,15 +1,14 @@
-Flask
-joblib
-sklearn
-tweepy
-pandas
-numpy
-matplotlib
+flask == 1.1.2
+joblib == 1.0.1
+sklearn == 0.24.1
+tweepy == 3.10.0
+pandas == 1.2.3
+numpy == 1.19.5
+matplotlib == 3.3.4
 emoji
 seaborn
 arabic_reshaper
-pyarabic
-textblob
-nltk
-gensim
+pyarabic == 0.6.10
+textblob == 0.15.3
+nltk == 3.5
 gunicorn
