@@ -1,0 +1,8 @@
+Flask
+joblib
+sklearn
+tweepy
+time
+pandas
+numpy
+pickle
