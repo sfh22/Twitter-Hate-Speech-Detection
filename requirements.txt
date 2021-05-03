@@ -2,7 +2,7 @@ Flask
 joblib
 sklearn
 tweepy
-time
+time == 3.8.8
 pandas
 numpy
 pickle
